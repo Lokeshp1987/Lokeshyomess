@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/apple/Documents/G/Indglobla_flutter/Lokeshyomess/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "G:\\flutter projects\\yomess\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/06db1d933152f48918addf3a6cc87a80/core-1.1.0/res/values-ca/values-ca.xml",
+                    "source": "C:\\Users\\om\\.gradle\\caches\\transforms-2\\files-2.1\\06db1d933152f48918addf3a6cc87a80\\core-1.1.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/apple/Documents/G/Indglobla_flutter/Lokeshyomess/build/url_launcher/intermediates/res/merged/debug/values-ca/values-ca.xml",
+            "outputFile": "G:\\flutter projects\\yomess\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/06db1d933152f48918addf3a6cc87a80/core-1.1.0/res/values-ca/values-ca.xml",
+                    "source": "C:\\Users\\om\\.gradle\\caches\\transforms-2\\files-2.1\\06db1d933152f48918addf3a6cc87a80\\core-1.1.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
